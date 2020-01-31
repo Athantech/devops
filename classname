@@ -1,0 +1,10 @@
+elasticsearch:x:987:981:elasticsearch user:/nonexistent:/sbin/nologin
+postgres:x:26:26:PostgreSQL Server:/var/lib/pgsql:/bin/bash
+nginx:x:986:980:Nginx web server:/var/lib/nginx:/sbin/nologin
+zammad:x:985:979::/home/zammad:/bin/bash
+ceejay:x:1002:1002::/home/ceejay:/bin/bash
+tommy:x:1003:1003::/home/tommy:/bin/bash
+ada:x:1004:1018::/home/ada:/bin/bash
+tony:x:1005:1019::/home/tony:/bin/bash
+mike:x:1006:1020::/home/mike:/bin/bash
+athanasius:x:1007:1007::/home/athanasius:/bin/bash
